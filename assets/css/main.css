@@ -67,6 +67,18 @@ img {
 .profile_card .description {
     margin-bottom: 35px;
     color: rgba(255, 255, 255, 0.6);
+    font-family: 'Dancing Script',sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.profile_card .description img {
+    width: 20px;
+    display: inline-block;
+}
+
+.profile_card .description p {
+    margin: 0 10px;
 }
 
 .profile_card .socials_links {
